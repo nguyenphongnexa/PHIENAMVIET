@@ -1,0 +1,10 @@
+{
+  "name": "NGUYỄN PHONG - PHIÊN  ÂM VIỆT",
+  "description": "Ứng dụng phiên âm tiếng Anh và tiếng Trung sang chuẩn phát âm tiếng Việt thông minh, ngắt cụm chuẩn nhịp, luyện ngữ điệu hàng ngày.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
